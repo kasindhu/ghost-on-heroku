@@ -9,6 +9,7 @@ themes=(
         pico
         lyra
 	liebling
+	nurui	
 )
 
 for theme in "${themes[@]}"
