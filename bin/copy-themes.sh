@@ -8,7 +8,8 @@ themes=(
 	vapor
         pico
         lyra
-	liebling	
+	liebling
+	nuiri
 )
 
 for theme in "${themes[@]}"
