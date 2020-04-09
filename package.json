@@ -27,7 +27,6 @@
     "pico": "github:tryghost/pico",
     "the-shell": "github:mityalebedev/The-Shell#v2.0.0",
     "vapor": "github:sethlilly/Vapor#v1.6.0"
-
   },
   "engines": {
     "node": "10.X"
