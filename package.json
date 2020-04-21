@@ -7,7 +7,7 @@
     "url": "git://github.com/snathjr/ghost-on-heroku.git"
   },
   "bugs": "https://github.com/TryGhost/Ghost/issues",
-  "private": false,
+  "private": "true",
   "version": "3.13.4",
   "dependencies": {
     "attila": "github:zutrinken/attila#1.13.0",
